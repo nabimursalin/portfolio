@@ -17,10 +17,6 @@
     position: relative;
 
 }
-.navbar{
-    position: fixed;
-}
-
 .logo {
     width: 13rem;
     height: 3.5rem;
